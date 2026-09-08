@@ -12,4 +12,4 @@ I'm a passionate Full-Stack Developer from India who loves building real-world w
 
 ⚡ I believe the best way to learn is by building real projects
 
-go Live URL :my-portfolio-apex-e99e.vercel.app
+go Live URL : harshit-portfolio-web.netlify.app
